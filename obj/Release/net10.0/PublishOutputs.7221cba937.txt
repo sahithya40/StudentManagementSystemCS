@@ -1,0 +1,7 @@
+C:\Users\labuser\AppData\Local\Temp\student-management-publish-dfae8fea802949ac815b693d7eaefc86\StudentManagementConsoleApplication.exe
+C:\Users\labuser\AppData\Local\Temp\student-management-publish-dfae8fea802949ac815b693d7eaefc86\StudentManagementConsoleApplication.dll
+C:\Users\labuser\AppData\Local\Temp\student-management-publish-dfae8fea802949ac815b693d7eaefc86\StudentManagementConsoleApplication.deps.json
+C:\Users\labuser\AppData\Local\Temp\student-management-publish-dfae8fea802949ac815b693d7eaefc86\StudentManagementConsoleApplication.runtimeconfig.json
+C:\Users\labuser\AppData\Local\Temp\student-management-publish-dfae8fea802949ac815b693d7eaefc86\StudentManagementConsoleApplication.pdb
+C:\Users\labuser\AppData\Local\Temp\student-management-publish-dfae8fea802949ac815b693d7eaefc86\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\labuser\AppData\Local\Temp\student-management-publish-dfae8fea802949ac815b693d7eaefc86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
