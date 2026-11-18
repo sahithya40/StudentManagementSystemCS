@@ -39,7 +39,7 @@ static void DisplayApplicationInformation()
 
     Console.WriteLine("Application Name: Student Management Console Application");
     Console.WriteLine($"Application Version: {version}");
-    Console.WriteLine("Description: A console application for managing student records.");
+    Console.WriteLine("Description: This is a console application for managing student records.");
 }
 
 static void RunCrudScenario()
